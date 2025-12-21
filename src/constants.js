@@ -34,7 +34,7 @@ import united from './assets/company_logo/united.jpeg'
 
 // Education Section Logo's
 import vbspu from './assets/education_logo/vbspu.png';
-import vpsLogo from './assets/education_logo/vps_logo.png';
+
 import school from './assets/education_logo/school.jpeg';
 
 // Project Section Logo's
