@@ -4,7 +4,8 @@ This is my personal portfolio website built using **React.js**.
 It showcases my skills, projects, and contact details with a modern and interactive UI.
 
 ## 🔗 Live Demo
-👉 https://portfolio-react-eie1rju11-ranjeet-chauans-projects.vercel.app/
+👉 https://portfolio-react-js-murex.vercel.app/
+
 
 ## ✨ Features
 - Responsive design for all devices
@@ -32,3 +33,4 @@ It showcases my skills, projects, and contact details with a modern and interact
   "react-toastify": "^11.0.3",
   "react-typing-effect": "^2.0.5"
 }
+
