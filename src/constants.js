@@ -215,7 +215,7 @@ export const SkillsInfo = [
         "A responsive grocery e-commerce website built using React.js, styled with Tailwind CSS, data fetched via Fetch API, smooth routing using React Router DOM, and interactive sliders implemented with Swiper.js.",
       image: Grocifylogo,
       tags: ["React JS", "Fetch API","Javascript","Tailwind css","React-Router-Dom", "Swiper","react-icons"],
-      github: "",
-      webapp: "",
+      github: "https://github.com/ranjeetchauhan123/Grocery-Website-react-",
+      webapp: "https://grocery-website-react-1twsjl49v-ranjeet-chauans-projects.vercel.app/",
     },
   ];  
