@@ -34,3 +34,4 @@ It showcases my skills, projects, and contact details with a modern and interact
   "react-typing-effect": "^2.0.5"
 }
 
+
