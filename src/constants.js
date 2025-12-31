@@ -216,6 +216,6 @@ export const SkillsInfo = [
       image: Grocifylogo,
       tags: ["React JS", "Fetch API","Javascript","Tailwind css","React-Router-Dom", "Swiper","react-icons"],
       github: "https://github.com/ranjeetchauhan123/Grocery-Website-react-",
-      webapp: "https://grocery-website-react-1twsjl49v-ranjeet-chauans-projects.vercel.app/",
+      webapp: "https://grocery-website-react-gamma.vercel.app/",
     },
   ];  
